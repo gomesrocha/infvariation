@@ -14,9 +14,15 @@ The library is easy to use and can be integrated into larger projects or used as
 from infvariation import Variation
  
 genvar = Variation()
+
 print("-----------")
+
 print(genvar.typosquatting('mydomain.com'))
+
 print("-----------")
+
 print(genvar.generate_leet('mydomain'))
+
 print("-----------")
+
 print(genvar.generate_variations('mydomain'))
