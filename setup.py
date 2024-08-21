@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="infvariation",
-    version="0.1.1",
+    version="0.1.1-rc1",
     description="A Python library for generating information variations, such as typo-squatting domains, leet transformations, and custom text variations.",
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
@@ -20,3 +20,5 @@ setup(
     ],
     python_requires='>=3.8',
 )
+
+
