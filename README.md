@@ -26,3 +26,5 @@ print(genvar.generate_leet('mydomain'))
 print("-----------")
 
 print(genvar.generate_variations('mydomain'))
+
+
