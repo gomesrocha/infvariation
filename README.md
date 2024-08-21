@@ -9,7 +9,18 @@ The library is easy to use and can be integrated into larger projects or used as
 
     ** generate_variations: ** This function generates various text variations by applying different modification patterns.
 
-# Example usage:
+# Installation
+
+## pip installation
+
+```bash
+$ pip install infvariation==0.1.2
+```
+```bash
+$ uv pip install infvariation==0.1.2
+```
+
+# Example usage as a library:
 
 from infvariation import Variation
  
